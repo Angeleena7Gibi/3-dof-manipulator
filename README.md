@@ -1,6 +1,6 @@
 # 3-dof-manipulator
 Vision-based 3-DOF robotic manipulator that detects PCB vias and performs pick-and-place using Arduino and OpenCV.
-# 3-DOF Manipulator - Vision-Based Pick and Place System 🎯
+# 3-DOF Manipulator - Vision-Based Pick and Place System 
 
 This project implements a 3-DOF robotic arm controlled by an Arduino and triggered using real-time via detection via OpenCV in Python. The system detects four circular vias on a PCB using a webcam, then sends a serial signal to the Arduino to begin a predefined pick-and-place routine.
 
