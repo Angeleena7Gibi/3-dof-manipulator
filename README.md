@@ -38,7 +38,7 @@ This project implements a 3-DOF robotic arm controlled by an Arduino and trigger
 
 ---
 
-## 🖥 How the System Works
+##  How the System Works
 
 1. Webcam streams live feed.
 2. OpenCV detects circular vias using contour analysis and circularity check.
@@ -65,7 +65,7 @@ This project implements a 3-DOF robotic arm controlled by an Arduino and trigger
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 ### 1. Upload Arduino Code
 - Open `actuation.ino` in Arduino IDE.
