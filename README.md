@@ -1,4 +1,4 @@
-# 3-dof-manipulator
+# 3-DOF Manipulator
 Vision-based 3-DOF robotic manipulator that detects PCB vias and performs pick-and-place using Arduino and OpenCV.
 # 3-DOF Manipulator - Vision-Based Pick and Place System 
 
